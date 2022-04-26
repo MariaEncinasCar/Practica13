@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711339043580",
+    "project_id": "fir-login-9b9b4",
+    "storage_bucket": "fir-login-9b9b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711339043580:android:c9047f04c428068bfd0579",
+        "android_client_info": {
+          "package_name": "encinas.maria.practica13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711339043580-lh34309dcdifd7es6rt3a306ce5idhch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU-GbDAzV3GZABzqdOhzrJdOvzOIdqxCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711339043580-lh34309dcdifd7es6rt3a306ce5idhch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
